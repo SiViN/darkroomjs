@@ -1,4 +1,4 @@
-import fabric from 'fabric';
+import {fabric} from 'fabric-webpack';
 
 export let CropZone = fabric.util.createClass(fabric.Rect, {
   _render: function (ctx) {

@@ -12,6 +12,7 @@
     "url": "moquet.net"
   },
   "dependencies": {
+    "fabric-webpack": "^1.6.0-rc.1",
     "lodash": "^4.0.0"
   },
   "devDependencies": {

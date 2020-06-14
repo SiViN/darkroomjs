@@ -1,4 +1,4 @@
-import fabric from 'fabric';
+import {fabric} from 'fabric-webpack';
 import * as _ from 'lodash';
 
 import {CropTransformation} from './crop-transformation';
